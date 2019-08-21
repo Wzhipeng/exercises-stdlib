@@ -61,5 +61,5 @@ object Asserts extends FlatSpec with Matchers with org.scalaexercises.definition
   def valuesAsserts(res0: Int) {
     assert(res0 == 1 + 1)
   }
-
+ 
 }
